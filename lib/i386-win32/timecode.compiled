@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1154382129"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -FiC:\Users\nicholas\Projects\dionysopoulos\timecode\lib\i386-win32 -FuC:\Users\nicholas\Projects\dionysopoulos\timecode\totp -FuC:\Users\nicholas\Projects\dionysopoulos\timecode\hmac -FuC:\Users\nicholas\Projects\dionysopoulos\timecode\ -FUC:\Users\nicholas\Projects\dionysopoulos\timecode\lib\i386-win32\ -l timecode.lpr"/>
+</CONFIG>

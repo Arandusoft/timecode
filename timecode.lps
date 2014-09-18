@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="timecode.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="timecode"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="35" Y="52"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="totp\Base32U.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Base32U"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="21" Y="22"/>
+        <UsageCount Value="21"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GoogleOTP"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="62"/>
+        <CursorPos X="25" Y="91"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="hmac\hmac.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="HMAC"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="26"/>
+        <UsageCount Value="21"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\strings.pp"/>
+        <UnitName Value="strings"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="25" Y="39"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="76"/>
+        <CursorPos X="32" Y="107"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="70"/>
+        <CursorPos X="10" Y="101"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\hash\src\sha1.pp"/>
+        <UnitName Value="sha1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="37" Y="8"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\dateutil.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2054"/>
+        <CursorPos X="33" Y="2090"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\systemh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="276"/>
+        <CursorPos X="3" Y="307"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\sysutils\datih.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="122"/>
+        <CursorPos X="22" Y="136"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="57" Column="54" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="57" Column="23" TopLine="27"/>
+      </Position2>
+      <Position3>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="81" Column="1" TopLine="27"/>
+      </Position3>
+      <Position4>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="34" Column="1" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="26" Column="13" TopLine="1"/>
+      </Position5>
+      <Position6>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="37" Column="31" TopLine="6"/>
+      </Position6>
+      <Position7>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="25" Column="1" TopLine="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="57" Column="80" TopLine="6"/>
+      </Position8>
+      <Position9>
+        <Filename Value="timecode.lpr"/>
+        <Caret Line="52" Column="18" TopLine="1"/>
+      </Position9>
+      <Position10>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="125" Column="5" TopLine="65"/>
+      </Position10>
+      <Position11>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="10" Column="31" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="24" Column="43" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="27" Column="22" TopLine="1"/>
+      </Position13>
+      <Position14>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="94" Column="1" TopLine="65"/>
+      </Position14>
+      <Position15>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="95" Column="17" TopLine="54"/>
+      </Position15>
+      <Position16>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="93" Column="22" TopLine="65"/>
+      </Position16>
+      <Position17>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="93" Column="22" TopLine="65"/>
+      </Position17>
+      <Position18>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="95" Column="19" TopLine="64"/>
+      </Position18>
+      <Position19>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="98" Column="40" TopLine="64"/>
+      </Position19>
+      <Position20>
+        <Filename Value="totp\GoogleOTP.pas"/>
+        <Caret Line="90" Column="37" TopLine="62"/>
+      </Position20>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
