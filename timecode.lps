@@ -9,34 +9,32 @@
         <Filename Value="timecode.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="timecode"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="22"/>
-        <CursorPos X="36" Y="52"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="1"/>
+        <CursorPos X="60" Y="52"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="totp\Base32U.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Base32U"/>
-        <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="8"/>
-        <CursorPos X="11" Y="26"/>
-        <UsageCount Value="21"/>
-        <Loaded Value="True"/>
+        <TopLine Value="1"/>
+        <CursorPos X="71" Y="7"/>
+        <UsageCount Value="22"/>
       </Unit1>
       <Unit2>
         <Filename Value="totp\GoogleOTP.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GoogleOTP"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="72"/>
-        <CursorPos X="1" Y="134"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="1"/>
+        <CursorPos X="48" Y="124"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
@@ -46,7 +44,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="3" Y="26"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
       </Unit3>
       <Unit4>
         <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\strings.pp"/>

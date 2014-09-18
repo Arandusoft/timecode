@@ -49,7 +49,7 @@ type
 
     { add your program here }
 
-    WriteLn( IntToStr(CalculateTOTP('g6fjwjrnhfzmbmkj')) );
+    WriteLn( IntToStr(CalculateTOTP('AAAAAAAAAAAAAAAA')) );
 
     Readln;
 
