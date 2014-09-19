@@ -2,12 +2,11 @@
 <CONFIG>
   <ProjectOptions>
     <Version Value="9"/>
-    <PathDelim Value="\"/>
     <General>
       <Flags>
         <MainUnitHasCreateFormStatements Value="False"/>
       </Flags>
-      <SessionStorage Value="InProjectDir"/>
+      <SessionStorage Value="InIDEConfig"/>
       <MainUnit Value="0"/>
       <Title Value="TimeCode"/>
       <UseAppBundle Value="False"/>
@@ -17,7 +16,9 @@
       <EnableI18N LFM="False"/>
     </i18n>
     <VersionInfo>
-      <StringTable ProductVersion=""/>
+      <UseVersionInfo Value="True"/>
+      <RevisionNr Value="1"/>
+      <StringTable CompanyName="Akeeba Ltd" ProductVersion="TimeCode"/>
     </VersionInfo>
     <BuildModes Count="1">
       <Item1 Name="Default" Default="True"/>
@@ -30,27 +31,32 @@
         <FormatVersion Value="1"/>
       </local>
     </RunParams>
-    <Units Count="4">
+    <Units Count="5">
       <Unit0>
         <Filename Value="timecode.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="timecode"/>
       </Unit0>
       <Unit1>
-        <Filename Value="totp\Base32U.pas"/>
+        <Filename Value="totp/Base32U.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Base32U"/>
       </Unit1>
       <Unit2>
-        <Filename Value="totp\GoogleOTP.pas"/>
+        <Filename Value="totp/GoogleOTP.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GoogleOTP"/>
       </Unit2>
       <Unit3>
-        <Filename Value="hmac\hmac.pas"/>
+        <Filename Value="hmac/hmac.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="HMAC"/>
       </Unit3>
+      <Unit4>
+        <Filename Value="storage/AkAESCTR.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AkAESCTR"/>
+      </Unit4>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -61,8 +67,8 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="totp;hmac"/>
-      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+      <OtherUnitFiles Value="totp;hmac;storage"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Other>
       <CompilerMessages>

@@ -1,3 +1,7 @@
 backup/*
+totp/backup/*
+hmac/backup/*
+storage/backup/*
+
 lib/*
 release/*
